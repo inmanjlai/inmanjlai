@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/BJfOtGk.jpg" alt="banner">
 <h2 align="center">Hello, My name is Ismail N Manjlai ✌</h2>
-<p align="center">I am a Full-Stack Web Developer and in my free time I really enjoy creating random art pieces and working on janky game systems.</p>
+<p align="center">I am a web developer, artist, and cat dad</p>
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
