@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/BJfOtGk.jpg" alt="banner">
-<h2 align="center">Hello, My name is Ismail Manjlai ✌</h2>
+<h2 align="center">Hello, my name is Ismail Manjlai ✌</h2>
 <p align="center">I am a web developer, artist, and cat dad</p>
 
 <h2 align="center">Languages and Tools</h2>
